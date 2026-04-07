@@ -1,0 +1,26 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP600,SMP600,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP601,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP602,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP603,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP604,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP605,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP606,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP607,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP608,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP609,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP610,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP611,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP612,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP613,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP614,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP615,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP616,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP617,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP618,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP619,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP620,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP621,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP622,DrugA,1.0,Negative,2026-04-10,Dr. Green
+EXP600,SMP623,DrugA,1.0,Positive,2026-04-10,Dr. Green
+EXP600,SMP624,DrugA,1.0,Positive,2026-04-10,Dr. Green

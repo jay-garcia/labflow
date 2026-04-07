@@ -1,0 +1,2 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP001,SMP001,DrugA,0.5,Maybe,2026-04-01,Dr. Smith

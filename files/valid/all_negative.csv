@@ -1,0 +1,4 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP200,SMP200,DrugY,1.5,Negative,2026-04-06,Dr. Brown
+EXP200,SMP201,DrugY,1.5,Negative,2026-04-06,Dr. Brown
+EXP200,SMP202,DrugY,1.5,Negative,2026-04-06,Dr. Brown

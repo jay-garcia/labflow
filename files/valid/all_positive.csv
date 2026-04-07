@@ -1,0 +1,4 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP100,SMP100,DrugX,0.8,Positive,2026-04-05,Dr. Adams
+EXP100,SMP101,DrugX,0.8,Positive,2026-04-05,Dr. Adams
+EXP100,SMP102,DrugX,0.8,Positive,2026-04-05,Dr. Adams

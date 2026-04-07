@@ -1,0 +1,2 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date
+EXP001,SMP001,DrugA,0.5,Positive,2026-04-01

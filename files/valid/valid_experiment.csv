@@ -1,0 +1,5 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP001,SMP001,DrugA,0.5,Positive,2026-04-01,Dr. Smith
+EXP001,SMP002,DrugA,0.5,Negative,2026-04-01,Dr. Smith
+EXP002,SMP003,DrugB,1.2,Positive,2026-04-02,Dr. Lee
+EXP002,SMP004,DrugB,1.2,Negative,2026-04-02,Dr. Lee

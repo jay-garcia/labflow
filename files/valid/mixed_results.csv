@@ -1,0 +1,5 @@
+experiment_id,sample_id,compound_name,concentration_mg_ml,result,run_date,scientist
+EXP300,SMP300,DrugZ,0.3,Positive,2026-04-07,Dr. Lee
+EXP300,SMP301,DrugZ,0.3,Negative,2026-04-07,Dr. Lee
+EXP301,SMP302,DrugW,2.0,Positive,2026-04-07,Dr. Kim
+EXP301,SMP303,DrugW,2.0,Positive,2026-04-07,Dr. Kim
